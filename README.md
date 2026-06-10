@@ -9,7 +9,7 @@ The platform acts as an end-to-end data pipeline that ingests raw production rec
 
 ## System Architecture & Data Flow
 
-```text
+``text
 Data Ingestion Nodes (API / CSV / Webhooks)
        │
        ▼
