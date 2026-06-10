@@ -83,7 +83,7 @@ Modules: Predictive Forecasts
 
 Mechanism: Pulls operational history metrics into a machine learning layer to forecast upcoming data ingestion capacity strains and operational system delays.
 
-🗂️ Component Highlight: A/B Testing & Data Lineage Realization
+ Component Highlight: A/B Testing & Data Lineage Realization
 To track how experimental conclusions are formed, the database leverages clear schema lookups combined with a robust relational reporting script.
 
 Core Data Structure Blueprint (ab_test_sessions)
@@ -131,10 +131,10 @@ Plaintext
    │
    ├──► Datablock: Variant A Ingestion Ancestry (Source Node, Status, Quarantine History)
    └──► Datablock: Variant B Ingestion Ancestry (Source Node, Status, Quarantine History)
-📊 Executive Dashboard Interface Preview
+ Executive Dashboard Interface Preview
 Figure 1: Main Platform Dashboard depicting running confidence levels, average P-values (0.03), active operational tracking blocks, and current statistical distribution counts.
 
-📂 Repository Layout Breakdown
+ Repository Layout Breakdown
 /assets: Houses visualization images and media rendering metrics (dashboard_preview.png).
 
 /backend: Complete production-level script logic files containing validation parameters, data architecture specifications, and calculation rules.
